@@ -1,0 +1,4 @@
+enum AuthUsing {
+  email,
+  password,
+}
