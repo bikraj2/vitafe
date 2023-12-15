@@ -31,6 +31,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+/server/node_modules
+/server/.env
 
 # Symbolication related
 app.*.symbols

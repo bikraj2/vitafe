@@ -1,6 +1,5 @@
-import express from 'express';
-import { register } from '../controllers/authentication';
-
+export {};
 // export default (router: express.Router) => {
 //   router.post('/register', register);
 // };
+//# sourceMappingURL=auth.js.map
